@@ -10,7 +10,9 @@ I am a passionate 4th-year Computer Engineering major with expertise in Systems 
 - **Space:** Fascinated by the cosmos and the mysteries it holds.
 
 ### Skills
-- **Programming Languages:** C/C++, Python, HTML, CSS
+- **Programming Languages:** C/C++, Python, HTML, CSS, Javascript, Verilog
+- **Framework** React.js, Git, Linux
+- **Other** Mininet, Wireshark
 
 ## Career Goals
 I am currently seeking exciting opportunities in the tech industry where I can apply my knowledge and grow professionally. I am enthusiastic about contributing to innovative projects and collaborating with talented individuals.
