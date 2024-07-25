@@ -19,4 +19,4 @@ I am passionate about full stack web development, encompassing both front end an
 
 ## Contact
 - **Email**: <a href="mailto:paoloapedroso@gmail.com" target="_blank">paoloapedroso@gmail.com</a>
-- **LinkedIn**: <a href="https://www.linkedin.com/in/paolo-pedroso-848791232/" target="_blank"></a>
+- <a href="https://www.linkedin.com/in/paolo-pedroso-848791232/" target="_blank">**LinkedIn</a>
