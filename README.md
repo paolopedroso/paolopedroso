@@ -18,6 +18,5 @@ I am passionate about full stack web development, encompassing both front end an
 - **Space:** Passionate with space, I'm fascinated by the cosmos and the mysteries it holds.
 
 ## Contact
-- **Email**: [paoloapedroso@gmail.com](mailto:paoloapedroso@gmail.com)
+- [**Email**](mailto:paoloapedroso@gmail.com)
 - [**LinkedIn**](https://www.linkedin.com/in/paolo-pedroso-848791232/)
-- **Mobile**: 5108618604
