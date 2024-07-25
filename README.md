@@ -11,8 +11,8 @@ I am a passionate 4th-year Computer Engineering major with expertise in Systems 
 
 ### Skills
 - **Programming Languages:** C/C++, Python, HTML, CSS, Javascript, Verilog
-- **Framework** React.js, Git, Linux
-- **Other** Mininet, Wireshark
+- **Frameworks:** React.js, Git, Linux
+- **Other:** Mininet, Wireshark
 
 ## Career Goals
-I am currently seeking exciting opportunities in the tech industry where I can apply my knowledge and grow professionally. I am enthusiastic about contributing to innovative projects and collaborating with talented individuals.
+I am passionate about full stack web development, encompassing both front end and back end technologies, as well as software engineering. Currently, I am seeking dynamic opportunities within the tech industry to leverage my skills and advance my professional growth. I am eager to contribute to innovative projects and collaborate with talented professionals.
