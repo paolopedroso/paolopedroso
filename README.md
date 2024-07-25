@@ -19,5 +19,5 @@ I am passionate about full stack web development, encompassing both front end an
 
 ## Contact
 - **Email**: [paoloapedroso@gmail.com](mailto:paoloapedroso@gmail.com)
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/paolo-pedroso-848791232/)
+- [**LinkedIn**](https://www.linkedin.com/in/paolo-pedroso-848791232/)
 - **Mobile**: 5108618604
