@@ -7,7 +7,7 @@ I am a passionate 4th-year Computer Engineering major with expertise in Systems 
 
 ### Skills
 - **Programming Languages:** C/C++, Python, HTML, CSS, Javascript, Verilog
-- **Frameworks:** React.js, Git, Linux
+- **Frameworks:** React.js, Git, Linux, PowerShell
 - **Other:** Mininet, Wireshark
 
 ## Career Goals
