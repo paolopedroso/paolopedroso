@@ -16,3 +16,8 @@ I am passionate about full stack web development, encompassing both front end an
 ### Hobbies/Interests
 - **Photography:** I love taking pictures, capturing moments and telling stories through the lens.
 - **Space:** Passionate with space, I'm fascinated by the cosmos and the mysteries it holds.
+
+## Contact
+- **Email**: [paoloapedroso@gmail.com](mailto:paoloapedroso@gmail.com)
+- **LinkedIn**: [[LinkedIn Profile](https://www.linkedin.com/in/yourprofile)](https://www.linkedin.com/in/paolo-pedroso-848791232/)
+- **Mobile**: 5108618604
