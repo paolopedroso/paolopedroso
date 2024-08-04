@@ -11,7 +11,8 @@ I am a passionate 4th-year Computer Engineering major with expertise in Systems 
 - **Other:** Mininet, Wireshark
 
 ## Career Goals
-I am passionate about full stack web development, encompassing both front end and back end technologies, as well as software engineering. Currently, I am seeking dynamic opportunities within the tech industry to leverage my skills and advance my professional growth. I am eager to contribute to innovative projects and collaborate with talented professionals.
+I am passionate about all aspects of computers, from full stack web development, encompassing both front end and back end technologies, to software engineering. Additionally, I have a strong interest in hardware roles, such as VLSI Design, Firmware, and Hardware. Currently, I am seeking dynamic opportunities within the tech industry to leverage my skills and advance my professional growth. I am eager to contribute to innovative projects and collaborate with talented professionals.
+
 
 ### Hobbies/Interests
 - **Photography:** I love taking pictures, capturing moments and telling stories through the lens.
